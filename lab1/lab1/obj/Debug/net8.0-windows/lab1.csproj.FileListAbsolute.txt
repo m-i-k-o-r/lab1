@@ -44,3 +44,27 @@ C:\Users\toilet\Desktop\lab1 — копия\lab1\obj\Debug\net8.0-windows\refint
 C:\Users\toilet\Desktop\lab1 — копия\lab1\obj\Debug\net8.0-windows\lab1.pdb
 C:\Users\toilet\Desktop\lab1 — копия\lab1\obj\Debug\net8.0-windows\lab1.genruntimeconfig.cache
 C:\Users\toilet\Desktop\lab1 — копия\lab1\obj\Debug\net8.0-windows\ref\lab1.dll
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.AssemblyReference.cache
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1_MarkupCompile.cache
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1_MarkupCompile.lref
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.dll
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\refint\lab1.dll
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.pdb
+C:\Users\toilet\Desktop\lab1\lab1\lab1\bin\Debug\net8.0-windows\lab1.exe
+C:\Users\toilet\Desktop\lab1\lab1\lab1\bin\Debug\net8.0-windows\lab1.deps.json
+C:\Users\toilet\Desktop\lab1\lab1\lab1\bin\Debug\net8.0-windows\lab1.runtimeconfig.json
+C:\Users\toilet\Desktop\lab1\lab1\lab1\bin\Debug\net8.0-windows\lab1.dll
+C:\Users\toilet\Desktop\lab1\lab1\lab1\bin\Debug\net8.0-windows\lab1.pdb
+C:\Users\toilet\Desktop\lab1\lab1\lab1\bin\Debug\net8.0-windows\Prism.dll
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.g.resources
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfoInputs.cache
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfo.cs
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.CoreCompileInputs.cache
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.sourcelink.json
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.Up2Date
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\lab1.genruntimeconfig.cache
+C:\Users\toilet\Desktop\lab1\lab1\lab1\obj\Debug\net8.0-windows\ref\lab1.dll

@@ -41,6 +41,6 @@
         </ListBox>
         <TextBlock Canvas.Left="247" TextWrapping="Wrap" Text="sort logs" Canvas.Top="283" Height="20" Width="120" Foreground="White"  FontSize="13"/>
         <Button Content="clear all" Command="{Binding ClearCommand}" Canvas.Left="627" Canvas.Top="566" Height="26" Width="66" Background="Gray" Foreground="White" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center" VerticalAlignment="Top"/>
-        <Button Content="save all" Command="{Binding ClearCommand}" Canvas.Left="542" Canvas.Top="566" Height="26" Width="66" Background="Gray" Foreground="White" FontWeight="Bold" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Button Content="save all" Command="{Binding SaveCommand}" Canvas.Left="542" Canvas.Top="566" Height="26" Width="66" Background="Gray" Foreground="White" FontWeight="Bold" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center"/>
     </Canvas>
 </Window>
